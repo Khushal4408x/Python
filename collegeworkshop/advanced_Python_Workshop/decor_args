@@ -1,0 +1,9 @@
+def do_twice(func):
+    def wrapper_do_twice(*args,**kargs):
+        func(*args,**kargs)
+        func(*args,**kargs)
+    return wrapper_do_twice
+@do_twice
+def message(name):
+    print(f"Hello{name}") 
+message ("Mohit")           
