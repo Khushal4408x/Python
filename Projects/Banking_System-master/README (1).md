@@ -20,13 +20,6 @@ It can manage multiple accounts, multiple customers, transanctions with unique I
 - Fully modular and clean code structure using OOP
 
 
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/Arhaan-Ali/Banking_System
-```
 
 Go to the project directory
 
