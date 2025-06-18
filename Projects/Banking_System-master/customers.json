@@ -1,0 +1,10 @@
+[
+    {
+        "customer_id": "1234",
+        "name": "Khushal",
+        "address": "Mars",
+        "account_numbers": [
+            "ced6f588-d267-4ece-91c4-71985062c777"
+        ]
+    }
+]
