@@ -46,5 +46,5 @@ Go to the project directory
 ## 🚀 About Me
 I am a first B.tech Cse undergrad i am passionate about Data Science and Artificial Intelligence 
 
-For more info check out my LinkedIn - https://www.linkedin.com/in/arhaan-ali/
+
 
